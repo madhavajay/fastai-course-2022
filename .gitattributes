@@ -1,3 +1,4 @@
 models/dfu-resnet34-two-pass.pth filter=lfs diff=lfs merge=lfs -text
 models/dfu-resnet34-two-pass_torchscript.pt filter=lfs diff=lfs merge=lfs -text
 models/dfu-resnet34-two-pass_torchscript_lite.ptl filter=lfs diff=lfs merge=lfs -text
+models/2022-06-27-resnet34-256-ranger.pth filter=lfs diff=lfs merge=lfs -text
